@@ -1,0 +1,23 @@
+# Two Pointers (투 포인터)
+
+[메인으로 돌아가기](https://github.com/Alom-codingTest/codingTest-25-1)
+
+최근 많이 나오는 유형이니 꼭 풀어보시길 바랍니다.
+특히, 투 포인터는 부분합과 많이 연관되어 나오는 만큼, 투 포인터 문제는 아니지만 부분합을 연습할 수 있는 문제를 첫 문제로 넣어놨습니다.
+광부 호석은 최근 제 2회 류호석배 코딩테스트에서 나온 문제로 코딩테스트 치곤 상당히 어려운 문제에 속하지만 한번 접해보면 매우 좋은 문제라 넣었습니다.
+
+| 순번  |                                   문제 번호                                   |                                             문제 이름                                             |                                        난이도                                         |
+|:---:|:-------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
+| 000 | <a href="https://www.acmicpc.net/problem/11728" target="_blank">11728</a> |          <a href="https://www.acmicpc.net/problem/11728" target="_blank">배열 합치기</a>           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  ||
+| 001 | <a href="https://www.acmicpc.net/problem/21921" target="_blank">21921</a> |            <a href="https://www.acmicpc.net/problem/21921" target="_blank">블로그</a>            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  ||
+| 002 | <a href="https://www.acmicpc.net/problem/20922" target="_blank">20922</a> |         <a href="https://www.acmicpc.net/problem/20922" target="_blank">겹치는 건 싫어</a>          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |<a href="./../../solution/two_pointer/20922" target="_blank">바로 가기</a>|
+| 003 |  <a href="https://www.acmicpc.net/problem/2470" target="_blank">2470</a>  |            <a href="https://www.acmicpc.net/problem/2470" target="_blank">두 용액</a>            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |<a href="./../../solution/two_pointer/2470" target="_blank">바로 가기</a>|
+| 004 | <a href="https://www.acmicpc.net/problem/22862" target="_blank">22862</a> | <a href="https://www.acmicpc.net/problem/22862" target="_blank">가장 긴 짝수 연속한 부분 수열 (large)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> ||
+| 005 |  <a href="https://www.acmicpc.net/problem/3151" target="_blank">3151</a>  |            <a href="https://www.acmicpc.net/problem/3151" target="_blank">합이 0</a>            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> ||
+| 006 |  <a href="https://www.acmicpc.net/problem/1806" target="_blank">1806</a>  |            <a href="https://www.acmicpc.net/problem/1806" target="_blank">부분합</a>             | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |<a href="./../../solution/two_pointer/1806" target="_blank">바로 가기</a>|
+| 007 | <a href="https://www.acmicpc.net/problem/15961" target="_blank">15961</a> |           <a href="https://www.acmicpc.net/problem/15961" target="_blank">회전 초밥</a>           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |<a href="./../../solution/two_pointer/15961" target="_blank">바로 가기</a>|
+| 008 | <a href="https://www.acmicpc.net/problem/22945" target="_blank">22945</a> |           <a href="https://www.acmicpc.net/problem/22945" target="_blank">팀 빌딩</a>            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> ||
+| 009 | <a href="https://www.acmicpc.net/problem/20366" target="_blank">20366</a> |        <a href="https://www.acmicpc.net/problem/20366" target="_blank">같이 눈사람 만들래?</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> ||
+| 010 |  <a href="https://www.acmicpc.net/problem/7453" target="_blank">7453</a>  |         <a href="https://www.acmicpc.net/problem/7453" target="_blank">합이 0인 네 정수</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> ||
+| 011 | <a href="https://www.acmicpc.net/problem/20442" target="_blank">20442</a> |           <a href="https://www.acmicpc.net/problem/20442" target="_blank">ㅋㅋ루ㅋㅋ</a>           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> ||
+| 012 | <a href="https://www.acmicpc.net/problem/21279" target="_blank">21279</a> |           <a href="https://www.acmicpc.net/problem/21279" target="_blank">광부 호석</a>           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> ||
